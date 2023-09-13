@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\bin\Debug\Rastgele4islem.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\bin\Debug\Rastgele4islem.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\bin\Debug\Rastgele4islem.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\obj\Debug\Rastgele4islem.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\obj\Debug\Rastgele4islem.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\obj\Debug\Rastgele4islem.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\obj\Debug\Rastgele4islem.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\obj\Debug\Rastgele4islem.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\obj\Debug\Rastgele4islem.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Rastgele4islem\obj\Debug\Rastgele4islem.pdb
